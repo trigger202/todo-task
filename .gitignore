@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+.vscode
+
+api/vendor
+frontend/node_modules
+
+public/hot
+public/storage
+storage/*.key
+storage/logs
+vendor
+.env
+.env.backup
+.phpunit.result.cache
+
+.idea
+/api/vendor
+.env
+/api/public/.htaccess
+/api/storage
+storage/*.key
+
+build

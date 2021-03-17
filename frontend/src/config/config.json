@@ -1,0 +1,4 @@
+{
+    "api" : "http://localhost:8000/",
+    "media_server": "http://localhost:8000/storage/videos/"
+}
